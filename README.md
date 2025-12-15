@@ -20,7 +20,5 @@ mini_turtle_task/
 │   ├── __init__.py          <-- La Interfaz (Expone las funciones al usuario)
 │   └── drawer_logic.py      <-- La Lógica (Contiene el canvas y el estado global)
 ├── main.py                  <-- Script de prueba (Utiliza las funciones importadas)
-└── pyproject.toml           <-- Metadatos para la instalación (Opcional)
-
 
 
