@@ -63,3 +63,6 @@
         global x
         x = 0
         print("\n--- Posición horizontal (x) reiniciada a 0 ---\n")
+
+[Prueba](tarea.md)
+        
